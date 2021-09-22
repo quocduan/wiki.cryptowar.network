@@ -1,5 +1,5 @@
 ---
-description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade'
+description: 'Đào tạo Anh Hùng, Luyện Vũ Khí, Đánh Thú và Thu lượm xBlade'
 ---
 
 # CryptoWar
