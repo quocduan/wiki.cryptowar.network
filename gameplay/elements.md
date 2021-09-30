@@ -4,7 +4,7 @@ Gamers in CryptoWar are empowered with weapon elements such as:
 
 • Fire
 
- • Earth 
+• Earth 
 
 • Lightning 
 
